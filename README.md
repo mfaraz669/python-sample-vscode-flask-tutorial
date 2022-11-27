@@ -1,4 +1,5 @@
 # Python/Flask Tutorial for Visual Studio Code
+[![Build Status](https://dev.azure.com/mfaraz669/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_apis/build/status/mfaraz669.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/mfaraz669/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_build/latest?definitionId=11&branchName=master)
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
 
